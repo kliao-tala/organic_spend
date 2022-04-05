@@ -1,0 +1,12 @@
+name: org
+channels:
+  - conda-forge
+dependencies:
+  - python=3.9
+  - jupyter
+  - numpy
+  - pandas
+  - matplotlib
+  - plotly
+  - scipy
+  - statsmodels
